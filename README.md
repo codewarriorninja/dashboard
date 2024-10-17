@@ -11,6 +11,7 @@ This is an admin dashboard UI built with Next.js. Currently, it serves as a fron
 Responsive design for optimal viewing on various devices.
 User-friendly interface for managing data and visualizations.
 Customizable components using Tailwind CSS and Shadcn/ui.
+
 Packages Used
 Next.js / React - Framework for building server-rendered React applications.
 TypeScript - Adding static typing to JavaScript.
@@ -60,8 +61,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 
 ![Dashboard](image/dashboard.png)
-<<<<<<< HEAD
-![Login](image/login.png)dashboard
-=======
 ![Login](image/login.png)
->>>>>>> 1a929a93f061e8204ef42c6170af3c3a14655405
+
