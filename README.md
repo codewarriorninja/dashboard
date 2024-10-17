@@ -60,4 +60,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 
 ![Dashboard](image/dashboard.png)
-![Login](image/login.png.png)# dashboard
+![Login](image/login.png)
