@@ -60,4 +60,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 
 ![Dashboard](image/dashboard.png)
+<<<<<<< HEAD
 ![Login](image/login.png)dashboard
+=======
+![Login](image/login.png)
+>>>>>>> 1a929a93f061e8204ef42c6170af3c3a14655405
